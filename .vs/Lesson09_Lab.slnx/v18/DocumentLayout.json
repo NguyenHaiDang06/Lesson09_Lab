@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lesson09_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|d:\\lesson09_lab\\lesson09_lab\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|solutionrelative:lesson09_lab\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|d:\\lesson09_lab\\lesson09_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|solutionrelative:lesson09_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|d:\\lesson09_lab\\lesson09_lab\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|solutionrelative:lesson09_lab\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|d:\\lesson09_lab\\lesson09_lab\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|solutionrelative:lesson09_lab\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|d:\\lesson09_lab\\lesson09_lab\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D09CA3E4-1555-15C0-A817-7893188F1DD5}|Lesson09_Lab\\Lesson09_Lab.csproj|solutionrelative:lesson09_lab\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lesson09_Lab\\Lesson09_Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson09_Lab\\Program.cs",
+              "ToolTip": "D:\\Lesson09_Lab\\Lesson09_Lab\\Program.cs",
+              "RelativeToolTip": "Lesson09_Lab\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:30:48.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lesson09_Lab\\Lesson09_Lab\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson09_Lab\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Lesson09_Lab\\Lesson09_Lab\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Lesson09_Lab\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T14:29:42.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Lesson09_Lab\\Lesson09_Lab\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Lesson09_Lab\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Lesson09_Lab\\Lesson09_Lab\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Lesson09_Lab\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:27:57.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Lesson09_Lab\\Lesson09_Lab\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lesson09_Lab\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Lesson09_Lab\\Lesson09_Lab\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lesson09_Lab\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T14:25:35.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Lesson09_Lab\\Lesson09_Lab\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Lesson09_Lab\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Lesson09_Lab\\Lesson09_Lab\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Lesson09_Lab\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAANcAAAAAAAAAAAAmwPwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T14:18:03.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
